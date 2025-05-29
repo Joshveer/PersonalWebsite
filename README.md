@@ -1,1 +1,1 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joshveer&repo=PersonalWebsite)](https://github.com/Joshveer/PersonalWebsite)
+Personal website designed with Astro, Typescript, TailwindCSS, NodeJS, and PNPM.
