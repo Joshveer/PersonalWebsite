@@ -37,7 +37,7 @@ const { image, summary, url, theme } = CV.basics;
     {CV?.analyticsCode && <script is:inline src={CV.analyticsCode} />}
     <Analytics />
   </head>
-  <body data-theme={theme} class="relative bg-skin-fill font-sans overflow-x-hidden">
+  <body data-theme={theme} class="relative bg-skin-fill font-sans">
     <div class="absolute inset-0 -z-10 print:hidden">
       <div class="absolute left-1/2 top-1/2 h-[150vh] w-[150vw] -translate-x-1/2 -translate-y-1/2 rounded-full bg-skin-hue/10 blur-[120px] dark:bg-white/5"></div>
     </div>
@@ -49,14 +49,9 @@ const { image, summary, url, theme } = CV.basics;
 <style>
   html {
     overflow-x: hidden;
-    width: 100%;
-    max-width: 100%;
   }
 
   body {
-    overflow-x: hidden;
-    width: 100%;
-    max-width: 100%;
     margin: 0;
     padding: 0;
   }
@@ -65,7 +60,6 @@ const { image, summary, url, theme } = CV.basics;
     @apply rounded-lg;
     cursor: none !important;
     -webkit-user-drag: none;
-    max-width: 100%;
   }
   
   a {
@@ -100,22 +94,14 @@ const { image, summary, url, theme } = CV.basics;
   
   /* Prevent horizontal overflow on mobile */
   @media (max-width: 768px) {
-    * {
-      max-width: 100% !important;
-      word-wrap: break-word;
-      overflow-wrap: break-word;
-    }
-    
     body {
-      padding: 0 16px;
+      padding: 0 1rem;
     }
     
-    /* Ensure background circle doesn't cause overflow */
+    /* Constrain the background blur to prevent horizontal scroll */
     .absolute.inset-0.-z-10 > div {
       width: 100vw !important;
-      height: 100vh !important;
       left: 50% !important;
-      top: 50% !important;
       transform: translateX(-50%) translateY(-50%) !important;
     }
   }
