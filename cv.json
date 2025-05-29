@@ -1,578 +1,342 @@
 {
   "analyticsCode": "",
   "basics": {
-    "name": "Ariel G. Falcón",
+    "name": "Joshveer Grewal",
     "label": "Software Developer",
-    "animated_main_label": "developer",
-    "animated_secondary_initial_label": "software",
-    "animated_secondary_final_label": "full_stack",
+    "animated_main_label": "Developer",
+    "animated_secondary_initial_label": "Software",
+    "animated_secondary_final_label": "Full Stack",
     "image": "/pfp.webp",
-    "email": "falconyumn@gmail.com",
-    "url": "https://www.linkedin.com/in/arielfalcon/",
-    "summary": "Full-Stack web developer, at the moment. I work on Angular and Vue with Java / Spring. Currently learning about AWS, Cloud Computing and DevOps.",
-    "theme": "red",
+    "email": "jvgrewal@umich.edu",
+    "url": "https://www.linkedin.com/in/joshveergrewal",
+    "summary": "Hey! My name is Josh and I am a freshman at the University of Michigan. I am interested in quantitative finance, theoretical CS, and startups. I hope to explore health disparities driven by research at the intersections of medicine and technology.",
+    "theme": "blue",
     "location": {
-      "address": "Alcalá de Henares",
-      "city": "Madrid",
-      "countryCode": "ES",
-      "region": "Spain"
+      "address": "Ann Arbor",
+      "city": "MI",
+      "countryCode": "US",
+      "region": "United States"
     },
     "profiles": [
       {
-        "network": "X / Twitter",
-        "icon": "ri:twitter-fill",
-        "color": "#1DA1F2",
-        "username": "@arielGfalcon",
-        "url": "https://x.com/arielGfalcon"
+        "network": "Instagram",
+        "icon": "ri:instagram-fill",
+        "color": "#7F35B2",
+        "username": "@joshveergrewal",
+        "url": "https://www.instagram.com/joshveergrewal/"
       },
       {
         "network": "LinkedIn",
         "icon": "ri:linkedin-fill",
         "color": "#0066C2",
-        "username": "Ariel Falcón",
-        "url": "https://linkedin.com/in/arielfalcon"
+        "username": "Joshveer Grewal",
+        "url": "https://www.linkedin.com/in/joshveergrewal"
       },
       {
         "network": "GitHub",
         "icon": "mdi:github",
         "color": "#929AAB",
-        "username": "ArielFalcon",
-        "url": "https://github.com/ArielFalcon"
+        "username": "Joshveer",
+        "url": "https://github.com/Joshveer"
       },
       {
         "network": "Email",
         "icon": "ri:mail-fill",
-        "color": "#D44638",
-        "username": "Ariel González Falcón",
-        "url": "mailto:falconyumn@gmail.com"
+        "color": "#1DA1F2",
+        "username": "Joshveer Grewal",
+        "url": "mailto:jvgrewal@umich.edu.com"
       }
     ]
   },
   "education": [
     {
-      "institution": "Experis Academy – Spain",
-      "url": "https://www.linkedin.com/school/experis-academy",
-      "area": "Cloud Computing (AWS)",
-      "studyType": "Full-time student",
-      "startDate": "2025-01-01",
-      "endDate": "2025-05-21"
+      "institution": "University of Michigan",
+      "url": "https://www.linkedin.com/school/university-of-michigan/",
+      "area": "Computer Science, Neuroscience, Mathematics",
+      "studyType": "Bachelor's degree",
+      "startDate": "2025-08-01",
+      "endDate": "2029-05-01",
+      "grade": "Incoming Freshman",
+      "courses": [
+        ""
+      ]
     },
     {
-      "institution": "TEIDE Formation Center – Spain",
-      "url": "https://www.linkedin.com/company/teide-centros-de-formaci%C3%B3n",
-      "area": "Web Development",
-      "studyType": "Full-time student",
-      "startDate": "2023-04-01",
-      "endDate": "2023-09-01"
-    },
-    {
-      "institution": "Calixto García Medical School – Cuba",
-      "url": "https://www.linkedin.com/company/hospital-universitario-calixto-garcia/?originalSubdomain=cu",
-      "area": "Medicine (unfinished)",
-      "studyType": "Full-time student",
-      "startDate": "2018-9-01",
-      "endDate": "2021-7-01"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "AWS Certified Developer – Associate",
-      "date": "2025-05-01",
-      "url": "",
-      "issuer": "Amazon"
-    },
-    {
-      "name": "C1 Advanced English",
-      "date": "2025-01-03",
-      "url": "https://cert.efset.org/es/6jDrGH",
-      "issuer": "EF SET"
-    }
-  ],
-  "work": [
-    {
-      "name": "Zener Soft Consulting",
-      "position": "Full-Stack Developer",
-      "location_type": "Remote",
-      "location": "ES",
-      "url": "https://www.linkedin.com/company/aitor-pelaez-zenerconsulting-com/",
-      "startDate": "2023-07-03",
-      "endDate": null,
-      "summary": "Experienced in developing high-complexity, scalable, data-driven projects with a focus on performance, user experience, and system integration. Participated in development of a complex Micro-services, Hexagonal, DDD, Spring Java project.",
-      "highlights": [
-        "Developed a data-intensive Angular project for internal use in the national healthcare system, focusing on managing complex data sets and implementing business logic."
+      "institution": "Northville High School",
+      "url": "https://www.linkedin.com/school/northville-high-school-50/",
+      "area": "High School Diploma",
+      "studyType": "High School",
+      "startDate": "2021-08-01",
+      "endDate": "2025-06-01",
+      "grade": "4.00/4.00",
+      "courses": [
+        "16 APs, 5 DEs, 36 ACT"
       ],
-      "responsibilities": [
-        "Developed and maintained projects, ensuring scalability, performance, clean code, efficient architecture and robust user experiences.",
-        "Collaborated with cross-functional teams of developers, designers, and project managers to deliver high-quality solutions.",
-        "Ensured code quality and optimized front-end performance to meet user needs and business objectives.",
-        "Managed complex, data-intensive projects, ensuring smooth integration of business logic and user interfaces.",
-        "Designed and developed highly reactive components and workflows to improve application efficiency and user interaction.",
-        "Developed endpoints and services for business logic and data management, ensuring seamless integration with front-end applications."
-      ],
-      "achievements": [
-        "Optimized front-end performance by resolving critical issues, improving page load times, and enhancing user experience.",
-        "Developed an internal tool to streamline client-owned code documentation, introducing interactive design guidelines and testable components.",
-        "Created a highly complex application for the national healthcare system, successfully handling large-scale data management and implementing intricate business logic.",
-        "Built reusable and scalable components for a multinational client, ensuring consistency and improving code quality across multiple platforms."
-      ],
-      "skills": {
-        "HTML5": "simple-icons:html5",
-        "CSS3": "ri:css3-fill",
-        "SCSS": "simple-icons:sass",
-        "Bootstrap": "simple-icons:bootstrap",
-        "JavaScript ECMA6+": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "Vue": "mdi:vuejs",
-        "Angular": "simple-icons:angular",
-        "Jasmine": "simple-icons:jasmine",
-        "Jest": "simple-icons:jest",
-        "Java": "ri:java-line",
-        "Spring": "simple-icons:spring",
-        "NodeJS": "ri:nodejs-line",
-        "Postman": "simple-icons:postman",
-        "i18n": "simple-icons:i18next",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "Figma": "simple-icons:figma",
-        "Jira": "simple-icons:jira",
-        "Kubernetes": "simple-icons:kubernetes",
-        "Docker": "simple-icons:docker"
-      }
-    }
-  ],
-  "skills": [
-    {
-      "name": "HTML",
-      "icon": "simple-icons:html5",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend"
+      "activities": [
+        "Science Olympiad Co-Captain",
+        "GIDAS Co-President",
+        "B4P Chapter Founder",
+        "YouDemonia CEO & Website Dev",
+        "Connect Me Former Director of Admissions",
+        "Varsity XC & Track"
       ]
     },
     {
-      "name": "CSS",
-      "icon": "ri:css3-fill",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
+      "institution": "Oakland University",
+      "url": "https://www.linkedin.com/school/oakland-university/",
+      "area": "Summer Mathematics Institute",
+      "studyType": "Pre-college Program",
+      "startDate": "2025-05-01",
+      "endDate": "2025-08-01",
+      "courses": [
+        "APM 3610: Design and Analysis of Algorithms",
+        "APM 4663: Graph Theory and Combinatorial Mathematics"
       ]
     },
     {
-      "name": "SCSS",
-      "icon": "simple-icons:sass",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Preprocessor",
-        "Responsive Design"
+      "institution": "Washtenaw Community College",
+      "url": "https://www.linkedin.com/school/washtenaw-community-college/",
+      "area": "Dual Enrollment",
+      "studyType": "College Credit Program",
+      "startDate": "2024-06-01",
+      "endDate": "2025-06-01",
+      "grade": "4.00/4.00",
+      "courses": [
+        "MTH 197: Linear Algebra",
+        "MTH 293: Calculus III",
+        "MTH 295: Differential Equations",
+        "CPS 171: Introduction to Programming w/ C++"
       ]
     },
     {
-      "name": "Tailwind",
-      "icon": "mdi:tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "Bootstrap",
-      "icon": "simple-icons:bootstrap",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "icon": "simple-icons:javascript",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "icon": "simple-icons:typescript",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Angular",
-      "icon": "simple-icons:angular",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Framework",
-        "UI"
-      ]
-    },
-    {
-      "name": "RxJS",
-      "icon": "simple-icons:reactivex",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Reactive Programming",
-        "JavaScript"
-      ]
-    },
-    {
-      "name": "Vue",
-      "icon": "mdi:vuejs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Astro",
-      "icon": "simple-icons:astro",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "Node",
-      "icon": "ri:nodejs-line",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "PNPM",
-      "icon": "simple-icons:pnpm",
-      "level": "Beginner",
-      "keywords": [
-        "Package Manager",
-        "Web Development",
-        "Frontend",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Java",
-      "icon": "ri:java-line",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Spring",
-      "icon": "simple-icons:spring",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Java Framework"
-      ]
-    },
-    {
-      "name": "MongoDB",
-      "icon": "simple-icons:mongodb",
-      "level": "Beginner",
-      "keywords": [
-        "Databases",
-        "File",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "icon": "simple-icons:mysql",
-      "level": "Intermediate",
-      "keywords": [
-        "Backend",
-        "Databases",
-        "SQL",
-        "Relational Database"
-      ]
-    },
-    {
-      "name": "PostgreSQL",
-      "icon": "simple-icons:postgresql",
-      "level": "Intermediate",
-      "keywords": [
-        "Backend",
-        "Databases",
-        "SQL",
-        "Relational Database"
-      ]
-    },
-    {
-      "name": "Git",
-      "icon": "mdi:git",
-      "level": "Advanced",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "icon": "mdi:github",
-      "level": "Advanced",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
-    },
-    {
-      "name": "AWS",
-      "icon": "simple-icons:amazonaws",
-      "level": "Beginner",
-      "keywords": [
-        "Cloud Computing",
-        "Backend",
-        "Infrastructure"
-      ]
-    },
-    {
-      "name": "Docker",
-      "icon": "mdi:docker",
-      "level": "Intermediate",
-      "keywords": [
-        "Virtual Environments",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Kubernetes",
-      "icon": "mdi:kubernetes",
-      "level": "Beginner",
-      "keywords": [
-        "Virtual Environments",
-        "Backend",
-        "Container Orchestration"
-      ]
-    },
-    {
-      "name": "Python",
-      "icon": "simple-icons:python",
-      "level": "Beginner",
-      "keywords": [
-        "Scripting",
-        "Automation",
-        "Web Development"
-      ]
-    },
-    {
-      "name": "Jest",
-      "icon": "simple-icons:jest",
-      "level": "Intermediate",
-      "keywords": [
-        "Testing",
-        "Web Development",
-        "Frontend",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Jasmine",
-      "icon": "simple-icons:jasmine",
-      "level": "Intermediate",
-      "keywords": [
-        "Testing",
-        "Web Development",
-        "Frontend",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Shell",
-      "icon": "simple-icons:shell",
-      "level": "Beginner",
-      "keywords": [
-        "Scripting",
-        "Automation"
-      ]
-    },
-    {
-      "name": "Linux",
-      "icon": "simple-icons:linux",
-      "level": "Beginner",
-      "keywords": [
-        "OS",
-        "Scripting",
-        "Automation"
-      ]
-    },
-    {
-      "name": "Swagger",
-      "icon": "simple-icons:swagger",
-      "level": "Beginner",
-      "keywords": [
-        "API",
-        "Documentation",
-        "Web Development",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Postman",
-      "icon": "simple-icons:postman",
-      "level": "Intermediate",
-      "keywords": [
-        "API",
-        "Testing",
-        "Web Development",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Figma",
-      "icon": "simple-icons:figma",
-      "level": "Beginner",
-      "keywords": [
-        "Prototyping",
-        "Web Development",
-        "Frontend"
+      "institution": "Schoolcraft College",
+      "url": "https://www.linkedin.com/school/schoolcraft-college/",
+      "area": "Dual Enrollment",
+      "studyType": "College Credit Program",
+      "startDate": "2024-01-01",
+      "endDate": "2024-06-01",
+      "grade": "4.00/4.00",
+      "courses": [
+        "CNT 115: Cybersecurity Fundamentals"
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced - C1"
-    }
-  ],
+"work": [
+  {
+    "name": " Summer Math Institute, Oakland University",
+    "position": "Program Participant",
+    "location_type": "On-site",
+    "location": "Rochester, Michigan, United States",
+    "url": "https://oakland.edu/math/outreach/ousmi/",
+    "startDate": "2025-05-01",
+    "endDate": null,
+    "summary": "1 of 15 applicants selected. Enrolled in APM 3610 under Dr. Lipták and APM 4663 under Dr. Cheng."
+  },
+  {
+    "name": "Future of Programming Lab, University of Michigan",
+    "position": "Researcher",
+    "location_type": "Hybrid",
+    "location": "Ann Arbor, Michigan, United States",
+    "url": "https://neurocy.notion.site/Future-of-Programming-Lab-241d162461a04064ae1fd9ae32bf4cb1",
+    "startDate": "2025-05-01",
+    "endDate": null,
+    "summary": "Working under Professor Omar on Hazel."
+  },
+  {
+    "name": " MIT PRIMES CrowdMath",
+    "position": "Researcher",
+    "location_type": "Remote",
+    "location": "Cambridge, Massachusetts, United States",
+    "url": "https://artofproblemsolving.com/polymath/mitprimes2025/r",
+    "startDate": "2025-04-01",
+    "endDate": null,
+    "summary": "Working on solving two open problems related to Goldbach semidomains. Relevant progress is condensed into an arXiv preprint and/or publication."
+  },
+  {
+    "name": "Prof. Pettie's Lab, University of Michigan",
+    "position": "Researcher & Programmer",
+    "location_type": "Hybrid",
+    "location": "Ann Arbor, Michigan, United States",
+    "url": "https://arxiv.org/abs/2403.15366",
+    "startDate": "2025-01-01",
+    "endDate": null,
+    "summary": "Developed harmonic decomposition method to enable efficient point, range, and inner product queries from data streams. Optimized weight distributions to minimize Euclidean distances in stretched graphs."
+  },
+  {
+    "name": "Prof. Kohandel's Lab, Applied Mathematics & CS, University of Waterloo",
+    "position": "Researcher, Programmer, & Co-Author",
+    "location_type": "Remote",
+    "location": "Waterloo, Ontario, Canada",
+    "startDate": "2024-02-01",
+    "endDate": "2024-12-31",
+    "summary": "Research presented at 2025 ISEF in Mathematics. Used Buckingham π Theorem & Ipsen’s Method for dimensional analysis to recover hidden equations. Reduced data usage by 99% and runtime by 90% with ML applications."
+  },
+  {
+    "name": "H.O.P.E. Lab Summer Program, University of Michigan",
+    "position": "Student Fellow",
+    "location_type": "Hybrid",
+    "location": "Ann Arbor, Michigan, United States",
+    "url": "https://media.dent.umich.edu/labs/hope/",
+    "startDate": "2024-07-01",
+    "endDate": "2024-08-31",
+    "summary":
+      "1 of 3 applicants selected. Worked under Dr. DaSilva on noninvasive craniofacial pain treatments using tDCS, fMRI, & fNIRS."
+  },
+  {
+    "name": "Harvard Medical School + MIT",
+    "position": "Co-Researcher & Co-Author",
+    "location_type": "Remote",
+    "location": "Harvard, Massachusetts, United States",
+    "startDate": "2023-07-01",
+    "endDate": "2024-07-31",
+    "summary": "Collaborated with Dr. Ponce (Harvard) & Dr. Arslan (MIT) to expand DreamDiffusion by linking latent spaces with StableDiffusion and modernizing OOS codebase on Google Colab."
+  }
+],
+"skills": [
+  {
+    "name": "C++",
+    "icon": "mdi:language-cpp",
+    "level": "Beginner",
+    "keywords": [
+      "Graph Theory",
+      "Algorithms",
+      "Streaming Queries",
+      "University of Michigan - Prof. Pettie's Lab"
+    ]
+  },
+  {
+    "name": "Neural Networks",
+    "icon": "mdi:brain",
+    "level": "Intermediate",
+    "keywords": [
+      "DreamDiffusion",
+      "Latent Space Modeling",
+      "Harvard Medical School + MIT"
+    ]
+  },
+  {
+    "name": "Maple",
+    "icon": "mdi:calculator-variant",
+    "level": "Beginner",
+    "keywords": [
+      "Mathematical Modeling",
+      "APM 3610",
+      "Oakland University - Summer Mathematics Institute"
+    ]
+  },
+  {
+    "name": "Python",
+    "icon": "simple-icons:python",
+    "level": "Advanced",
+    "keywords": [
+      "Mathematical Modeling",
+      "ML Optimization",
+      "University of Waterloo - Kohandel Lab"
+    ]
+  },
+  {
+    "name": "OCaml",
+    "icon": "simple-icons:ocaml",
+    "level": "Beginner",
+    "keywords": [
+      "Programming Language Design",
+      "Hazel Project",
+      "University of Michigan - FP Lab"
+    ]
+  },
+  {
+    "name": "LaTeX",
+    "icon": "mdi:file-document-outline",
+    "level": "Advanced",
+    "keywords": [
+      "Scientific Writing",
+      "Pain Research Documentation",
+      "University of Michigan - H.O.P.E. Lab"
+    ]
+  },
+  {
+    "name": "Multithreading",
+    "icon": "mdi:sync",
+    "level": "Beginner",
+    "keywords": [
+      "Parallel Programming",
+      "Concurrency",
+      "C++",
+      "Python",
+      "Performance Optimization"
+    ]
+  }
+],
   "projects": [
     {
-      "name": "CV Matching System",
+      "name": "Order Book",
       "isActive": true,
-      "description": "A propiertary code AI-driven CV matching system to connect the offer and the best candidates. Automates the recruitment process.",
+      "description": "Built a real-time C++ order book system with live price fetching, order matching engine, and ncurses-based UI. Designed for high-performance trading simulation (5,000 orders with 5 ms latency) with efficient data handling.",
       "highlights": [
-        "🎯 Tailored job opportunities",
-        "✨ AI-driven complex workflows ",
-        "🚀 80% increase in productivity"
+        "Order management, market data, & trade execution",
+        "GTC and FAK order types",
+        "Price-time priority matching and STL containers"
       ],
       "stack": {
-        "Python": "simple-icons:python",
-        "Redis": "simple-icons:redis",
-        "Firebase": "simple-icons:firebase",
-        "Google Cloud": "simple-icons:googlecloud",
-        "Claude": "ri:claude-fill",
-        "Groq": "ri:robot-2-fill"
+        "C++": "mdi:language-cpp",
+        "ncurses": "mdi:console",
+        "Multithreading": "mdi:sync"
       },
-      "url": "https://www.gringojobs.com"
-    },
-    {
-      "name": "TODO List",
-      "isActive": false,
-      "description": "A simple app to showcase my skills in Angular. It's a TODO list with a beautiful and smooth UI, good user experience and best practices. Not finished yet.",
-      "highlights": [
-        "📝 In progress",
-        "😮‍ Made-from-scratch complex components",
-        "😊 Beautiful and smooth UI, good user experience",
-        "\uD83E\uDD16 Server Side Rendering"
-      ],
-      "github": "https://github.com/ArielFalcon/TODO-list",
-      "stack": {
-        "Angular": "simple-icons:angular",
-        "RxJS": "simple-icons:reactivex",
-        "TypeScript": "simple-icons:typescript",
-        "SCSS": "simple-icons:sass",
-        "NodeJS": "ri:nodejs-line",
-        "Firebase": "simple-icons:firebase"
-      }
+      "github": "https://github.com/Joshveer/OrderBook",
+      "url": "https://github.com/Joshveer/OrderBook"
     },
     {
       "name": "Portfolio",
       "isActive": true,
-      "description": "This website! My personal portfolio, made with Astro. Integrates many themes and key shortcut actions.",
+      "description": "Personal website built with Astro. Includes About, Experience, Projects, and Skill sections. Features a clean, modern design with a focus on performance and SEO.",
       "highlights": [
-        "🚀 Fast, modern and SEO-friendly",
-        "🎨 Printable CV generation",
-        "〔N〕Crazy NeoVim mode, try it!"
+        "Clean GUI",
+        "Easy to follow sections",
+        "Command palette for shortcuts"
       ],
-      "github": "https://github.com/ArielFalcon/portfolio",
+      "github": "https://github.com/Joshveer/PersonalWebsite",
+      "url": "https://github.com/Joshveer/PersonalWebsite",
       "stack": {
         "Astro": "simple-icons:astro",
         "TypeScript": "simple-icons:typescript",
-        "Tailwind": "mdi:tailwind",
+        "TailwindCSS": "simple-icons:tailwindcss",
         "NodeJS": "ri:nodejs-line",
         "PNPM": "simple-icons:pnpm",
         "Vercel": "simple-icons:vercel"
-      },
-      "url": "https://www.arielfalcon.me"
+      }
     },
     {
-      "name": "AI Web Scraper",
-      "isActive": false,
-      "description": "A web scraper that uses AI to extract data from websites. It's a tool to automate the data extraction process, using machine learning to identify and extract data from websites.",
-      "highlights": [
-        "🤖 Simple script",
-        "🔍 Data Extraction",
-        "🌐 Web scraping"
-      ],
-      "stack": {
-        "Javascript": "simple-icons:javascript",
-        "Selenium": "simple-icons:selenium",
-        "ChromeDriver": "ri:chrome-fill",
-        "Groq": "ri:robot-2-fill"
-      },
-      "github": "https://github.com/ArielFalcon/ai_web_scrapper"
-    },
-    {
-      "name": "SpaceX Invaders",
+      "name": "arXiv:2407.02673",
       "isActive": true,
-      "description": "A Space Invaders game with a retro look, made with Vue3 and TypeScript. It's a fun project to showcase my skills in Vue3 and TypeScript.",
+      "description": "A Novel Approach to Image EEG Sleep Data for Improving Quality of Life in Patients Suffering From Brain Injuries Using DreamDiffusion",
       "highlights": [
-        "🚀 Space Invaders game",
-        "🛸 Retro fun",
-        "🎮 Vue3 + TypeScript"
+        "Submitted July 2nd, 2024",
+        "CS + Neuroscience",
+        "Done at HMS and MIT"
       ],
+      "url": "https://arxiv.org/abs/2407.02673",
       "stack": {
-        "Vue3": "ri:vuejs-line",
-        "TypeScript": "simple-icons:typescript",
-        "CSS": "simple-icons:css",
-        "Vite": "simple-icons:vite",
-        "PNPM": "simple-icons:pnpm",
-        "Netlify": "simple-icons:netlify"
-      },
-      "github": "https://github.com/ArielFalcon/spacex-invaders",
-      "url": "https://spacex-invaders.netlify.app/"
+        "Python": "simple-icons:python",
+        "Neural Networks": "mdi:brain",
+        "LaTeX": "mdi:file-document-outline"
+      }
+    },
+    {
+      "name": "arXiv:2411.15919",
+      "isActive": true,
+      "description": "Enhancing Symbolic Regression and Universal Physics-Informed Neural Networks with Dimensional Analysis",
+      "highlights": [
+        "Submitted November 24th, 2024",
+        "CS + Mathematics",
+        "Done at the University of Waterloo"
+      ],
+      "url": "https://arxiv.org/abs/2411.15919",
+      "stack": {
+        "Python": "simple-icons:python",
+        "Dimensional Analysis": "mdi:calculator-variant",
+        "Neural Networks": "mdi:brain",
+        "LaTeX": "mdi:file-document-outline"
+      }
     }
   ]
 }
